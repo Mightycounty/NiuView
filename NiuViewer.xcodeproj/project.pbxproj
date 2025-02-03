@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E57CB1B42D50DFA000F199DE /* NiuView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NiuView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E57CB1B42D50DFA000F199DE /* NiuViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NiuViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E57CB1B72D50DFA000F199DE /* NiuViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NiuViewApp.swift; sourceTree = "<group>"; };
 		E57CB1BB2D50DFA100F199DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -40,7 +40,7 @@
 		E57CB1B52D50DFA000F199DE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E57CB1B42D50DFA000F199DE /* NiuView.app */,
+				E57CB1B42D50DFA000F199DE /* NiuViewer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E57CB1B32D50DFA000F199DE /* NiuView */ = {
+		E57CB1B32D50DFA000F199DE /* NiuViewer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E57CB1C22D50DFA100F199DE /* Build configuration list for PBXNativeTarget "NiuView" */;
+			buildConfigurationList = E57CB1C22D50DFA100F199DE /* Build configuration list for PBXNativeTarget "NiuViewer" */;
 			buildPhases = (
 				E57CB1B02D50DFA000F199DE /* Sources */,
 				E57CB1B12D50DFA000F199DE /* Frameworks */,
@@ -60,11 +60,11 @@
 			);
 			dependencies = (
 			);
-			name = NiuView;
+			name = NiuViewer;
 			packageProductDependencies = (
 			);
 			productName = NiuView;
-			productReference = E57CB1B42D50DFA000F199DE /* NiuView.app */;
+			productReference = E57CB1B42D50DFA000F199DE /* NiuViewer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -82,7 +82,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E57CB1AF2D50DFA000F199DE /* Build configuration list for PBXProject "NiuView" */;
+			buildConfigurationList = E57CB1AF2D50DFA000F199DE /* Build configuration list for PBXProject "NiuViewer" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -96,7 +96,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E57CB1B32D50DFA000F199DE /* NiuView */,
+				E57CB1B32D50DFA000F199DE /* NiuViewer */,
 			);
 		};
 /* End PBXProject section */
@@ -316,7 +316,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E57CB1AF2D50DFA000F199DE /* Build configuration list for PBXProject "NiuView" */ = {
+		E57CB1AF2D50DFA000F199DE /* Build configuration list for PBXProject "NiuViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E57CB1C02D50DFA100F199DE /* Debug */,
@@ -325,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E57CB1C22D50DFA100F199DE /* Build configuration list for PBXNativeTarget "NiuView" */ = {
+		E57CB1C22D50DFA100F199DE /* Build configuration list for PBXNativeTarget "NiuViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E57CB1C32D50DFA100F199DE /* Debug */,
